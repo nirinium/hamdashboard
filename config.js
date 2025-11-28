@@ -1,5 +1,5 @@
 const disableSetup = false;
-var topBarCenterText = `VA3HDL - FN04ga`;
+var topBarCenterText = `N1RIP - EM78ia`;
 
 // Grid layout
 var layout_cols = 4;
@@ -11,7 +11,7 @@ var layout_rows = 3;
 // add new lines following the structure for extra menu options. The comma at the end is important!
 var aURL = [
   ["f3de21ff", "satellite.js"],
-  ["2196F3", "CLUBLOG", "https://clublog.org/livestream/VA3HDL", "1.7"],
+  ["2196F3", "CLUBLOG", "https://clublog.org/livestream/N1RIP", "1.7"],
   [
     "2196F3",
     "CONTEST",
@@ -26,7 +26,7 @@ var aURL = [
     "1",
     "R",
   ],
-  ["2196F3", "PISTAR", "http://pi-star.local/", "1.2"],
+  ["2196F3", "PISTAR", "http://192.168.1.10/", "1.2"],
   [
     "2196F3",
     "RADAR",
@@ -61,7 +61,7 @@ var aIMG = [
   ["RADAR", "https://radar.weather.gov/ridge/standard/CONUS_loop.gif"],
   [
     "LOCAL RADAR",
-    "https://radar.weather.gov/ridge/standard/KNQA_loop.gif",
+    "https://radar.weather.gov/ridge/standard/KLVX_loop.gif",
   ],
   [
     "NOAA D-RAP",
