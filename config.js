@@ -65,7 +65,7 @@ var aIMG = [
   ],
   [
     "NOAA D-RAP",
-    "https://services.swpc.noaa.gov/images/animations/d-rap/global/d-rap/latest.png",
+    "https://services.swpc.noaa.gov/images/animations/d-rap/global/latest.png",
   ],
   [
     "ISS POSITION",
@@ -87,12 +87,18 @@ var aIMG = [
     "LIGHTNING LOCAL",
     "https://www.blitzortung.org/en/Images/image_b_us.png",
   ],
-  ["YOUTUBE EXAMPLE", "iframe|https://www.youtube.com/@HamRadioCrashCourse/featured"],
+  [
+    "SATELLITE CGL VIDEO",
+    "https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/cgl/GEOCOLOR/GOES19-CGL-GEOCOLOR-600x600.mp4",
+  ],
   [
     "SDF ADS-B",
     "iframe|https://globe.adsbexchange.com/?airport=SDF",
   ],
-  ["VIDEO EXAMPLE", "https://himawari8.nict.go.jp/movie/720/20240611_pifd.mp4"],
+  [
+    "ShelbyEnergy Outage MAP",
+    "iframe|https://shelbyenergy.ebill.coop/maps/OutageWebMap/",
+  ],
   ["HF PROPAGATION",
     "https://www.hamqsl.com/solar101vhf.php"],
 ];
